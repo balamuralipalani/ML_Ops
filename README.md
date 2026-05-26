@@ -27,7 +27,6 @@ Model Selection
 DistilBERT-base-cased was chosen because it is 40% smaller and 60% faster than BERT-base while keeping about 97% of its language understanding ability. This made it ideal for this MLOps assignment, which focused on workflow efficiency instead of maximum accuracy.
 
 ============================================================================
-
 Setup Instructions
 
 Import notebook g25ait2077-vivekanandhanr-mlops-assignment-2.ipynb into Kaggle.
@@ -37,10 +36,9 @@ Add Kaggle Secrets: WANDB_API_KEY and HF_TOKEN.
 Run all cells.
 Push the fine tuned model to hugging face
 Check the performance of model in WandB
+
 ============================================================================
-
 Results
-
 Metric	Score
 Accuracy	0.571
 F1 Score	0.583
