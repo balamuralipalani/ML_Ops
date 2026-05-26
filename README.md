@@ -29,7 +29,7 @@ DistilBERT-base-cased was chosen because it is 40% smaller and 60% faster than B
 ============================================================================
 Setup Instructions
 
-Import notebook g25ait2077-vivekanandhanr-mlops-assignment-2.ipynb into Kaggle.
+Import notebook G25AIT2070_Balamurali_MLOps-Assignment2.ipynb into Kaggle.
 Enable GPU: Settings → Accelerator → GPU T4 x2.
 Enable Internet: Settings → Internet ON.
 Add Kaggle Secrets: WANDB_API_KEY and HF_TOKEN.
@@ -39,8 +39,9 @@ Check the performance of model in WandB
 
 ============================================================================
 Results
-Metric	Score
-Accuracy	0.571
-F1 Score	0.583
-Eval Loss	2.401
+
+Metric  Score
+Accuracy  0.571
+F1 Score  0.583
+Eval Loss  2.401
 ============================================================================
